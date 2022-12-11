@@ -117,7 +117,7 @@ header a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(https://dyma-images.s3.fr-par.scw.cloud/html-css/projects/project2/frame.jpg)
+  background: url(../img/frame.jpg)
     center center/cover;
 }
 
