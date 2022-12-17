@@ -1,3 +1,13 @@
-# Html-Css-1
+# Html & Css & Responsiv
 
-A little project from my development course online. On Dyma.fr
+My Second Project 
+
+Title of the site : Ledor
+
+Subject of the Project : Ledor (estate agency)
+
+
+My second project about front-end, from an online Development Course. 
+
+
+Online training from : https://dyma.fr/
